@@ -1,2 +1,2 @@
-# med-sea-pred
-Mediterranean Sea Prediction Models
+# Predsea
+Predicting the sea conditions
